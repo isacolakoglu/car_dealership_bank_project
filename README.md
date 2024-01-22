@@ -27,3 +27,23 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+### Project Summary 
+
+![Ekran görüntüsü 2024-01-22 162134](https://github.com/isacolakoglu/car_dealership_bank_project/assets/85408010/79311ba6-fb4d-45ee-9ed9-62112127cdee)
+
+
+
+![Ekran görüntüsü 2024-01-22 162155](https://github.com/isacolakoglu/car_dealership_bank_project/assets/85408010/057ec134-aa6a-484f-8f02-719274e0d7c6)
+
+
+
+![Ekran görüntüsü 2024-01-22 162209](https://github.com/isacolakoglu/car_dealership_bank_project/assets/85408010/dae964ee-44c7-4a4e-a439-c2f1d2b6c289)
+
+
+
+![Ekran görüntüsü 2024-01-22 162232](https://github.com/isacolakoglu/car_dealership_bank_project/assets/85408010/26a48720-2daf-4c07-b9dc-a1fa0ba44caa)
+
+
+
